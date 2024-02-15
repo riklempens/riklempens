@@ -1,4 +1,12 @@
-### Hi there 👋
+## Welcome on my personal GitHub Page.
+
+**From small-town roots to building open-source software solutions, I'm Rik Lempens, an IT infrastructure expert with a passion for innovation.** 
+Born and raised in Weert, Netherlands, I've always been fascinated by technology and its potential to solve problems.
+
+**Alongside Joente, I'm the co-founder of Cesbit, a company dedicated to building high-quality software solutions.**
+Open-source is at the heart of what we do, and we've released several successful projects like [InfraSonar](https://github.com/infrasonar), [ThingsDB](https://github.com/thingsdb), and [SiriDB](https://github.com/siridb). Our passion extends beyond large-scale projects, and our GitHub repository showcases smaller contributions like [Pyleri](https://github.com/cesbit/pyleri) (a flexible parsing tool) and [aiowmi](https://github.com/cesbit/aiowmi) (a Python connector for Windows Management Interface).
+
+I'm always looking for new challenges and opportunities to collaborate. If you're a startup with a software idea, I'd love to help you bring it to life. Don't hesitate to reach out via email rik@cesbit.com or connect with me on [LinkedIn](https://www.linkedin.com/in/riklempens/).
 
 <!--
 **riklempens/riklempens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
